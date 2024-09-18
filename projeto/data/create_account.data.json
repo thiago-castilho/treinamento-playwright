@@ -1,0 +1,19 @@
+{
+    "title": "Mr",
+    "name": "Test",
+    "email": "thiago.castilho@gft.com",
+    "password": "Teste123",
+    "birth_date": "6",
+    "birth_month": "11",
+    "birth_year": "1996",
+    "firstname": "Test",
+    "lastname": "Testu",
+    "company": "",
+    "address1": "Street Address",
+    "address2": "",
+    "country": "United States",
+    "state": "California",
+    "city": "Culver City",
+    "zipcode": "123456",
+    "mobile_number": "123456789"
+}
